@@ -2,7 +2,6 @@ package com.epgSoluction.DTO;
 
 import io.swagger.annotations.ApiModel;
 import lombok.*;
-import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 
 @Data
